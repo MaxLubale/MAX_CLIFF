@@ -20,7 +20,7 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Hi! am MAX. A passionate software engineer with relevant experience of 3 years. Always looking  opportunities to grow in my career,be a team player and collaborate with others. I'd love the opportunity to know more about your needs and how we will come up with a creative solution whether as a fellow dev or client. Hope I'll be considered. Looking forward to working with you.",
+    aboutme: "Hi! am MAX. A passionate software engineer with relevant experience of 3 years. Always looking for opportunities to grow in my career,be a team player and collaborate with others. I'd love the opportunity to know more about your needs and how we will come up with a creative solutions whether as a fellow dev or client.",
 };
 const worktimeline = [{
         jobtitle: "CHIEF OF ENGINEERING 🤓",
