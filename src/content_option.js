@@ -90,6 +90,15 @@ const skills = [{
         name: "C#",
         value: 50,
     },
+    {
+        name: "Graphic Design",
+        value: 90,
+    },
+    {
+        name: "Figma",
+        value: 70,
+    },
+
 ];
 
 const services = [{
